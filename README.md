@@ -3,8 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:10A37F,70:7C3AED,100:0D1117&height=220&section=header&text=Koppuravuri%20Chakreswar%20Siva%20Kumar&fontSize=28&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Dev%20%7C%20Data%20Analyst%20%7C%20AI%2FML%20Enthusiast%20%7C%20Hackathon%20Warrior&descAlignY=56&descAlign=50&descColor=94A3B8" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=10A37F&center=true&vCenter=true&multiline=true&width=750&height=100&lines=📊+Transforming+Raw+Data+into+Actionable+Insights;🚀+Building+Full+Stack+%26+AI-Powered+Applications;🏆+Hackathon+Enthusiast+%7C+Event+Participant;⚡+Turning+data+%26+ideas+into+reality+with+code" alt="Typing SVG" />
-</a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=10A37F&center=true&vCenter=true&multiline=true&width=750&height=120&lines=Transforming+Raw+Data+into+Actionable+Insights;Building+Full+Stack+%26+AI-Powered+Applications;Hackathon+Enthusiast+%7C+Event+Participant;Turning+data+%26+ideas+into+reality+with+code" alt="Typing SVG" />
 
 <br/>
 
