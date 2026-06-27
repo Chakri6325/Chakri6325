@@ -218,7 +218,7 @@ yaml
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=64748B&center=true&vCenter=true&width=500&lines=Always+open+to+collaborations+%26+hackathons!;Let's+build+something+amazing+together+🚀" alt="Footer Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=64748B&center=true&vCenter=true&width=500&lines=Always+open+to+collaborations+%26+hackathons!;Let's+build+something+amazing+together!" alt="Footer Typing" />
 
 </div>
 
