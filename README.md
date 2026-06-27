@@ -9,7 +9,6 @@
 <br/>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Chakri6325&label=Profile%20Views&color=10A37F&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Chakri6325?label=Followers&style=for-the-badge&color=7C3AED&labelColor=0D1117" alt="Followers" />
   <img src="https://img.shields.io/badge/Open%20to%20Work-✅-10A37F?style=for-the-badge&labelColor=0D1117" alt="Open to Work" />
   <img src="https://img.shields.io/badge/Hackathon-Enthusiast%20🏆-7C3AED?style=for-the-badge&labelColor=0D1117" alt="Hackathon" />
