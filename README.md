@@ -22,7 +22,7 @@
 
 ### 👨‍💻 About Me
 
-```yaml
+yaml
 name: "Koppuravuri Chakreswar Siva Kumar"
 alias: "Chakri"
 role: "Full Stack Developer & AI Enthusiast"
