@@ -58,7 +58,7 @@ yaml
 
 💡  fun_fact: "I turn raw data ☕ into decisions
                and ideas into reality!"
-```
+
 
 <br clear="right"/>
 
