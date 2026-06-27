@@ -24,7 +24,7 @@
 
 ### 🪪 Who Am I?
 
-> 🎓 **Koppuravuri Chakreswar Siva Kumar** — **Chakri**
+> 🎓 **Koppuravuri Chakreswar Siva Kumar** — **Chakri** <br/>
 >  💼 Open to **Full-time & Freelance**
 
 <br/>
