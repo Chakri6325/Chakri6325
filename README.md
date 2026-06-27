@@ -7,7 +7,6 @@
 <br/>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Chakri6325&label=Profile%20Views&color=10A37F&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Chakri6325?label=Followers&style=for-the-badge&color=7C3AED&labelColor=0D1117" alt="Followers" />
   <img src="https://img.shields.io/badge/Open%20to%20Work-✅-10A37F?style=for-the-badge&labelColor=0D1117" alt="Open to Work" />
   <img src="https://img.shields.io/badge/Hackathon-Enthusiast%20🏆-7C3AED?style=for-the-badge&labelColor=0D1117" alt="Hackathon" />
@@ -25,8 +24,8 @@
 
 ### 🪪 Who Am I?
 
-> 🎓 **Koppuravuri Chakreswar Siva Kumar** — aka **Chakri**
-> 📍 Based in **India** &nbsp;|&nbsp; 💼 Open to **Full-time & Freelance**
+> 🎓 **Koppuravuri Chakreswar Siva Kumar** — **Chakri**
+>  💼 Open to **Full-time & Freelance**
 
 <br/>
 
@@ -53,9 +52,9 @@
 
 ### 🏆 Community & Interests
 
-✦ &nbsp; **Active Hackathon Participant** — Love competing & building under pressure
-✦ &nbsp; **Tech Events & Workshops** — Always learning, always growing
-✦ &nbsp; **Open Source Contributor** — Sharing knowledge with the community
+✦ &nbsp; **Active Hackathon Participant** — Love competing & building under pressure <br/>
+✦ &nbsp; **Tech Events & Workshops** — Always learning, always growing <br/>
+✦ &nbsp; **Open Source Contributor** — Sharing knowledge with the community <br/>
 
 <br/>
 
