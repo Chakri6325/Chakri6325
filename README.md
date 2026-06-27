@@ -2,12 +2,12 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:10A37F,70:7C3AED,100:0D1117&height=220&section=header&text=Koppuravuri%20Chakreswar%20Siva%20Kumar&fontSize=28&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Dev%20%7C%20Data%20Analyst%20%7C%20AI%2FML%20Enthusiast%20%7C%20Hackathon%20Warrior&descAlignY=56&descAlign=50&descColor=94A3B8" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=10A37F&center=true&vCenter=true&multiline=true&width=750&height=120&lines=Transforming+Raw+Data+into+Actionable+Insights;Building+Full+Stack+%26+AI-Powered+Applications;Hackathon+Enthusiast+%7C+Event+Participant;Turning+data+%26+ideas+into+reality+with+code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=10A37F&center=true&vCenter=true&multiline=true&width=750&height=120&lines=Transforming+Raw+Data+into+Actionable+Insights;Building+Full+Stack+%26+AI-Powered+Applications;Hackathon+Enthusiast+%7C+Event+Participant;Turning+data+%26+ideas+into+reality+with+code" alt="Typing SVG" />
 
 <br/>
 
 <p>
+  <img src="https://komarev.com/ghpvc/?username=Chakri6325&label=Profile%20Views&color=10A37F&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Chakri6325?label=Followers&style=for-the-badge&color=7C3AED&labelColor=0D1117" alt="Followers" />
   <img src="https://img.shields.io/badge/Open%20to%20Work-✅-10A37F?style=for-the-badge&labelColor=0D1117" alt="Open to Work" />
   <img src="https://img.shields.io/badge/Hackathon-Enthusiast%20🏆-7C3AED?style=for-the-badge&labelColor=0D1117" alt="Hackathon" />
@@ -17,46 +17,55 @@
 
 ---
 
-<img align="right" alt="Data Analytics GIF" width="360" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd4b3ZtNXZyZWd0dGViNDZlbGQzdjNkZmt3MHpwMnA5aXA4MjkzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Data Analytics GIF" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp; About Me
 
 <br/>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> &nbsp; About Me
+### 🪪 Who Am I?
+
+> 🎓 **Koppuravuri Chakreswar Siva Kumar** — aka **Chakri**
+> 📍 Based in **India** &nbsp;|&nbsp; 💼 Open to **Full-time & Freelance**
 
 <br/>
 
-yaml
-╔══════════════════════════════════════════════════╗
-  👤  Name    : Koppuravuri Chakreswar Siva Kumar
-  🎭  Alias   : Chakri
-  📍  Location: India 🇮🇳
-╚══════════════════════════════════════════════════╝
+### 🎯 My Roles
 
-🎯  roles:
-      - "Full Stack Developer"
-      - "Data Analyst"
-      - "AI/ML Enthusiast"
+![Full Stack Developer](https://img.shields.io/badge/Full%20Stack%20Developer-10A37F?style=flat-square&logoColor=white)
+![Data Analyst](https://img.shields.io/badge/Data%20Analyst-7C3AED?style=flat-square&logoColor=white)
+![AI%2FML Enthusiast](https://img.shields.io/badge/AI%2FML%20Enthusiast-ED8B00?style=flat-square&logoColor=white)
+![Hackathon Warrior](https://img.shields.io/badge/Hackathon%20Warrior-FF6B6B?style=flat-square&logoColor=white)
 
-📊  data_analyst_expertise:
-      - "ETL Pipelines & Data Wrangling"
-      - "Interactive Dashboards & KPI Reporting"
-      - "Statistical Analysis & Trend Forecasting"
-      - "Data Visualization & Storytelling"
-      - "Database Querying & Optimization (SQL)"
+<br/>
 
-🏆  community:
-      - "Active Hackathon Participant"
-      - "Tech Event & Workshop Enthusiast"
-      - "Open Source Contributor"
+### 📊 Data Analyst Expertise
 
-🔭  exploring:
-      - "Advanced AI/ML & Predictive Modeling"
-      - "Business Intelligence Tools"
-      - "Cloud Data Engineering"
+| Skill Area | Details |
+|---|---|
+| 🔄 **ETL & Data Wrangling** | Cleaning, transforming & loading raw datasets |
+| 📈 **Dashboards & KPI Reporting** | Interactive Power BI & Excel reports |
+| 📉 **Statistical Analysis** | Trend forecasting & descriptive stats |
+| 🎨 **Data Visualization** | Storytelling with charts, graphs & visual insights |
+| 🗄️ **SQL & Database Optimization** | Complex queries, joins, indexing with PostgreSQL & MySQL |
 
-💡  fun_fact: "I turn raw data ☕ into decisions
-               and ideas into reality!"
+<br/>
 
+### 🏆 Community & Interests
+
+✦ &nbsp; **Active Hackathon Participant** — Love competing & building under pressure
+✦ &nbsp; **Tech Events & Workshops** — Always learning, always growing
+✦ &nbsp; **Open Source Contributor** — Sharing knowledge with the community
+
+<br/>
+
+### 🔭 Currently Exploring
+
+`Advanced AI/ML` &nbsp; `Predictive Modeling` &nbsp; `Business Intelligence` &nbsp; `Cloud Data Engineering`
+
+<br/>
+
+> 💡 *"I turn raw data into decisions — and ideas into reality, one commit at a time!"*
 
 <br clear="right"/>
 
